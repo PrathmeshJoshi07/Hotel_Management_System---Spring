@@ -65,6 +65,7 @@ DI using constructor injection
 
 
 🧰 Tools & Technologies Used
+
 Category	Tools
 Language	Java 23
 Backend Framework	Spring MVC 6
@@ -103,7 +104,7 @@ mvn -version
 Follow these steps exactly 👇
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Hotel_Management_System.git
+git clone  https://github.com/PrathmeshJoshi07/Hotel_Management_System---Spring
 cd Hotel_Management_System
 
 2️⃣ Build the Project
